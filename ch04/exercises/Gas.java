@@ -3,8 +3,8 @@
 //
 // Java How To Program, 9th Ed. (Deitel) Page 146
 //
-// Ray Santos
-// October 8, 2014
+// Kevin Zibari
+// Febuary 15, 2015
 //
 // Drivers are concerned with the mileage their automobiles get. One driver has
 // kept track of several trips by recording the miles driven and gallons used for
